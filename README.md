@@ -27,42 +27,41 @@
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/> </a>
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="35"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="35"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="38"/> </a>
 </p>
 
 <!-- Achievements & Badges -->
 <h3 align="left">Profiles of Platforms</h3>
 <p align="left">
-<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/awspractitioner.svg" alt="AWS Cloud Pratitioner - Credly Profile" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/gcpace.svg" alt="Google Associate Cloud Engineer - Credly Profile" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/githubactions.svg" alt="GitHub Actions - Credly Profile" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/awsgenai.svg" alt="AWS GenAI - Credly Profile" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/awscloudessentials.svg" alt="AWS Cloud Essentials - Credly Profile" height="30" width="40" /></a>
-</p>
-<a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=lokeshpari451276" target="_blank"><img align="center" src="images/badges/servicenowexecutive.svg" alt="Now Assist Executive Micro - ServiceNow Profile" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="AWS Cloud Practitioner" src="images/badges/awspractitioner.png" alt="AWS Cloud Pratitioner - Credly Profile" height="40" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="Google Associate Cloud Engineer" src="images/badges/gcpace.png" alt="Google Associate Cloud Engineer - Credly Profile" height="40" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="GitHub Actions" src="images/badges/githubactions.png" alt="GitHub Actions - Credly Profile" height="40" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="AWS Generative AI" src="images/badges/awsgenai.png" alt="AWS GenAI - Credly Profile" height="40" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="AWS Cloud Essentials" src="images/badges/awscloudessentials.png" alt="AWS Cloud Essentials - Credly Profile" height="40" width="40" /></a>
+<a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=lokeshpari451276" target="_blank"><img align="center" title="Now Assist Essential Micro Cert" src="images/badges/servicenowexecutive.png" alt="Now Assist Executive Micro - ServiceNow Profile" height="40" width="30" /></a>
 </p>
 <!-- Profiles of Platforms Achievements & Badges -->
 <h3 align="left">Profiles of Platforms</h3>
 <p align="left">
-<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/credly.svg" alt="Credly Profile" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lokeshparihar100" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode Profile" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/lokeshparihar100/" target="_blank"><img align="center" src="images/geeksforgeeks.svg" alt="Geeks for Geeks Profile" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lokeshparihar100" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Haker Rank Profile" height="30" width="40" /></a>
-<a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=lokeshpari451276" target="_blank"><img align="center" src="images/servicenow.svg" alt="servicenow Resume" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="Credly" src="images/credly.svg" alt="Credly Profile" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lokeshparihar100" target="_blank"><img align="center" title="Leetcode" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode Profile" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/lokeshparihar100/" target="_blank"><img align="center" title="GeekforGeeks" src="images/gfg.svg" alt="Geeks for Geeks Profile" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lokeshparihar100" target="_blank"><img align="center" title="Hacker Rank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Haker Rank Profile" height="30" width="40" /></a>
+<a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=lokeshpari451276" target="_blank"><img align="center" title="Servicenow" src="images/servicenow.png" alt="servicenow Resume" height="30" width="30" /></a>
 </p>
 
 <!-- GitHub States -->
