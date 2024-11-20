@@ -45,7 +45,7 @@
 </p>
 
 <!-- Achievements & Badges -->
-<h3 align="left">Profiles of Platforms</h3>
+<h3 align="left">Achievements & Badges</h3>
 <p align="left">
 <a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="AWS Cloud Practitioner" src="images/badges/awspractitioner.png" alt="AWS Cloud Pratitioner - Credly Profile" height="40" width="40" /></a>
 <a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="Google Associate Cloud Engineer" src="images/badges/gcpace.png" alt="Google Associate Cloud Engineer - Credly Profile" height="40" width="40" /></a>
@@ -54,6 +54,7 @@
 <a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" title="AWS Cloud Essentials" src="images/badges/awscloudessentials.png" alt="AWS Cloud Essentials - Credly Profile" height="40" width="40" /></a>
 <a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=lokeshpari451276" target="_blank"><img align="center" title="Now Assist Essential Micro Cert" src="images/badges/servicenowexecutive.png" alt="Now Assist Executive Micro - ServiceNow Profile" height="40" width="30" /></a>
 </p>
+
 <!-- Profiles of Platforms Achievements & Badges -->
 <h3 align="left">Profiles of Platforms</h3>
 <p align="left">
