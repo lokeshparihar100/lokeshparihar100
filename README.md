@@ -45,11 +45,24 @@
 </p>
 
 <!-- Achievements & Badges -->
-<h3 align="left">Achievements & Badges</h3>
+<h3 align="left">Profiles of Platforms</h3>
 <p align="left">
-<a href="https://www.leetcode.com/lokeshparihar100" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lokeshparihar100" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lokeshparihar100" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lokeshparihar100" height="30" width="40" /></a>
-<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/credly.svg" alt="lokeshparihar100" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/awspractitioner.svg" alt="AWS Cloud Pratitioner - Credly Profile" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/gcpace.svg" alt="Google Associate Cloud Engineer - Credly Profile" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/githubactions.svg" alt="GitHub Actions - Credly Profile" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/awsgenai.svg" alt="AWS GenAI - Credly Profile" height="30" width="40" /></a>
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/badges/awscloudessentials.svg" alt="AWS Cloud Essentials - Credly Profile" height="30" width="40" /></a>
+</p>
+<a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=lokeshpari451276" target="_blank"><img align="center" src="images/badges/servicenowexecutive.svg" alt="Now Assist Executive Micro - ServiceNow Profile" height="30" width="40" /></a>
+</p>
+<!-- Profiles of Platforms Achievements & Badges -->
+<h3 align="left">Profiles of Platforms</h3>
+<p align="left">
+<a href="https://www.credly.com/users/lokeshparihar100" target="_blank"><img align="center" src="images/credly.svg" alt="Credly Profile" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/lokeshparihar100" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode Profile" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/lokeshparihar100/" target="_blank"><img align="center" src="images/geeksforgeeks.svg" alt="Geeks for Geeks Profile" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lokeshparihar100" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Haker Rank Profile" height="30" width="40" /></a>
+<a href="https://nowlearning.servicenow.com/lxp?id=nl_public&user=lokeshpari451276" target="_blank"><img align="center" src="images/servicenow.svg" alt="servicenow Resume" height="30" width="40" /></a>
 </p>
 
 <!-- GitHub States -->
