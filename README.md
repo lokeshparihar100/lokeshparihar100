@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java Springboot**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1-4jJbpMwnbnxOOKUc2oiYS_vNMEg1Hix?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1-4jJbpMwnbnxOOKUc2oiYS_vNMEg1Hix?usp=sharing" target="_blank">Resume</a>
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
